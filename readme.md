@@ -1,1 +1,1 @@
-CodeWithHarry YouTube video source code for [ChatGPT clone:](https://www.youtube.com/watch?v=OAr6AIvH9VY)
+This repo contains ChatGPT clone using HTML, Tailwind CSS, Flask, MongoDB and ChatGPT API. 
